@@ -1,0 +1,12 @@
+/* Escreva um algoritmo em Dart que receba matrícula, nome, sobrenome, salário e número de horas trabalhadas. Crie a classe Funcionario com os seguintes campos (atributos):
+matrícula
+nome
+sobrenome
+salário
+horas trabalhadas
+Ainda na classe Funcionario, crie um método para calcular as horas extras dos funcionários, 
+considerando o padrão de 220 horas mensais.
+Crie as classes Caixa, Vendedor e Gerente, que herdam da classe Funcionario.
+Usando Polimorfismo, sobrescreva o método que calcula as horas extras, adicionando + 20% de comissão para o vendedor e + 35% de bonificação para o gerente.
+No método main, crie um objeto para cada classe filha, preenchendo os dados.
+Mostre o resultado dos cálculos na tela. */
